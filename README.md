@@ -1,2 +1,1 @@
-# django-constructor-
-Django Constructor 
+# Django Constructor 
